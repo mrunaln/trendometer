@@ -1,0 +1,3 @@
+# Module trendometer
+# RPC service class, partial path of RPC policy file
+com.db.trendometer.client.GreetingService, CFE9BC32D02D8FDFA836AAAB97066E5E.gwt.rpc

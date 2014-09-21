@@ -1,0 +1,2 @@
+serviceClass: com.db.trendometer.client.GreetingService
+path: CFE9BC32D02D8FDFA836AAAB97066E5E.gwt.rpc
